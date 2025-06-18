@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on the FOSS project @Jellyfin
+- 👯 I’m looking for a new Project to work on as a C# Freelancer either with Blazor or WPF
+- 📫 You can reach me best via my email github@jpb.software
+- ⚡ You can sponsor me via coff.ee/venson
 
 <!--
 **JPVenson/JPVenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
